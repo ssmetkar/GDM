@@ -1,0 +1,19 @@
+True Positive:	7113.0
+False Positive:	88.0
+False Negative:	3797.0
+True Negative:	3112752.0
+Recall:	0.65197067
+Precision:	0.98777948
+F-Measure:	0.78548948
+Specificity:	0.99997173
+RAND Index:	0.9987563
+Normalized Mutual Information:	0.7374
+Avg Density:	0.95824166
+Avg Clustering Coefficient:	0.69161399
+Avg Conductance:	0.24958699
+Avg FlakeODF:	0.12907272
+Avg FOMD:	0.22044152
+Avg TPR:	0.71810272
+Avg CR:	0.00039175
+Avg Cohesive:	0.91714605
+Avg Separability:	9.73860671
