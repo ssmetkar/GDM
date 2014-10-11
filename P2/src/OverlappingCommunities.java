@@ -227,12 +227,11 @@ public class OverlappingCommunities
 		}
 
 		for (int cnt = 0; cnt < clusters.size(); cnt++) {
-			for(int node : clusters.get(cnt))
-            {
+            for(int node : clusters.get(cnt)){
                 System.out.print(node+" ");
             }
             System.out.print("\n");
-		}
+        }
 	}
 
 	private float computeDensityMetric(Set<Integer> newCluster)
