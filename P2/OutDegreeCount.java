@@ -88,7 +88,6 @@ public class OutDegreeCount
 		}
 	}
 	
-
 	public static void main(String args[]) throws Exception
 	{
 		Configuration conf = new Configuration();
